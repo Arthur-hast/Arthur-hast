@@ -1,8 +1,8 @@
 # 👨🏽‍💻 Arthur Luis
 
-**`Desenvolvedor`**
+  **`Desenvolvedor`**
 
-Me chamo Arthur Luis, tenho 19 anos e sou natural do Pernambuco. Atualmente, estou cursando Ciências da Computação na Estácio e  dando meus primeiros passos como Desenvolvedor. Apaixonado por tecnologia e desafios, estou em constante aprendizado e dedicado a construir uma base sólida na área.
+Me chamo Arthur Luis, atualmente estou cursando Ciências da Computação na Estácio e  dando meus primeiros passos como Desenvolvedor. Apaixonado por tecnologia e desafios, estou em constante aprendizado e dedicado a construir uma base sólida na área.
 
 ---
 
