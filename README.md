@@ -46,7 +46,7 @@ Estou sempre aberto a novas conexões, oportunidades e parcerias que me permitam
     alt="GitHub Stats"
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Arthur-hast&show_icons=true&theme=highcontrast&incluide_all_comits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=Arthur-hast&show_icons=true&theme=highcontrast&incluide_all_comits=true&locale=en"
   />
 
 <img 
